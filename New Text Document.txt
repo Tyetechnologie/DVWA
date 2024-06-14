@@ -1,0 +1,120 @@
+.github
+ci(docker): also tag and push images by commit hash
+10 months ago
+config
+refactor: allow reading db_server from env
+last year
+database
+tidy the create script
+3 years ago
+docs
+docs: add guides to use and debug on docker
+last year
+dvwa
+Removed extra spaces
+2 weeks ago
+external/recaptcha
+removed PHP IDS library
+last year
+hackable
+Improved IIS support & setup system checks
+9 years ago
+tests
+add ignore links
+last month
+vulnerabilities
+fix: update links
+last month
+.dockerignore
+feat: add docker files
+last year
+.gitattributes
+feat: set line endings via git attributes
+10 months ago
+.gitignore
+feat: add docker files
+last year
+CHANGELOG.md
+feat: set line endings via git attributes
+10 months ago
+COPYING.txt
+feat: set line endings via git attributes
+10 months ago
+Dockerfile
+build(docker): also clean installer files
+10 months ago
+README.ar.md
+removed links to dvwa.co.uk
+2 years ago
+README.es.md
+Updated README.E.es.md to include Contributors section
+last year
+README.fa.md
+Align to latest EN PR
+last year
+README.fr.md
+Completing french readme
+2 years ago
+README.id.md
+fix: use safer default for docker port mapping
+3 months ago
+README.ko.md
+[DOCS] korean ver. README
+2 weeks ago
+README.md
+Update install instructions
+yesterday
+README.pt.md
+Update README.pt.md
+last year
+README.tr.md
+removed links to dvwa.co.uk
+2 years ago
+README.zh.md
+Update README.zh.md
+2 years ago
+SECURITY.md
+feat: set line endings via git attributes
+10 months ago
+about.php
+Removing PHPIDS
+last year
+compose.yml
+fix: use safer default for docker port mapping
+3 months ago
+favicon.ico
+Initial Commit
+11 years ago
+index.php
+Fixed typo
+2 months ago
+instructions.php
+Removing PHPIDS
+last year
+login.php
+removed old sponsor logo
+7 months ago
+logout.php
+Removing PHPIDS
+last year
+php.ini
+Insert missing equal signs ("=") in example php.ini
+5 years ago
+phpinfo.php
+Removing PHPIDS
+last year
+robots.txt
+feat: set line endings via git attributes
+10 months ago
+security.php
+fixed session flag handling code
+5 months ago
+security.txt
+Create security.txt
+2 years ago
+setup.php
+Added PHP version checks.
+last month
+tyetech1
+Create tyetech1
+4 hours ago
